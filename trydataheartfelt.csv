@@ -1,0 +1,12 @@
+Sepal_Length,Petal_Length, Species		
+2000, 0.604732308, versicolor
+2003, 0.825222171, versicolor
+2005, 0.480369016, versicolor
+2003, 0.786840981, versicolor
+2015, 0.518355203, versicolor
+2007, 0.531316444, versicolor
+2015, 0.007134035, setosa
+2015, 0.316951791, versicolor
+2011, 0.105977212, setosa
+2007, 0.978054817, versicolor
+2020, 0.255838793, setosa
